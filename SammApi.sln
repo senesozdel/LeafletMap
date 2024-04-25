@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SammApi", "SammApi\SammApi.csproj", "{8156A5AE-493A-48BC-8D23-603E8BD80C18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8156A5AE-493A-48BC-8D23-603E8BD80C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8156A5AE-493A-48BC-8D23-603E8BD80C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8156A5AE-493A-48BC-8D23-603E8BD80C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8156A5AE-493A-48BC-8D23-603E8BD80C18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {620A1008-B8B6-4F72-B185-8E287AB01FF1}
+	EndGlobalSection
+EndGlobal
